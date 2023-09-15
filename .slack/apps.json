@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T043Y8ASU9E": {
+      "app_id": "A05S8TKHQ9L",
+      "IsDev": false,
+      "team_domain": "learnwithjason",
+      "team_id": "T043Y8ASU9E"
+    }
+  },
+  "default": "learnwithjason"
+}
